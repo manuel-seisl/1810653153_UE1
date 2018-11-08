@@ -30,5 +30,8 @@ public class Aufgabe2_1810653153
             // Wertebereich: +/-1,4E-45 ... +/-3,4E+38
             float i = 2.356f;
 
+            // Konstanten können nach dem initialisieren nicht mehr verändert werden, Variablen schon
+            final int wert = 218;
+
         }
 }
