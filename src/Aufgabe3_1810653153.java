@@ -18,5 +18,11 @@ public class Aufgabe3_1810653153
         System.out.println("Inkrementieren Sie zahl3: " + (++zahl3));
         System.out.println("Dekrementieren Sie zahl2: " + (--zahl2));
 
+        char a = '_';
+
+        for ( int i = 0; i < 10; i++ ){
+            System.out.print(a);
+        }
+
     }
 }
